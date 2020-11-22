@@ -1,0 +1,10 @@
+#icons a{
+   float: right;
+   margin-top: 10vh;
+   margin-right: 1vw;
+}
+#icons a:visited{
+    text-decoration: none;
+    color: black;
+}
+

@@ -1,0 +1,40 @@
+#lifeof {
+    
+    font: bold 4.5vmin Helvetica;
+    margin-top: -5%;
+    text-align: center;
+}
+
+#left {
+    
+    font: bold 2.5vmin Helvetica;
+    margin-top: 0;
+    text-align: center;
+    padding-left: 17.5vw;
+    float: left;
+}
+
+
+#right {
+    font: bold 2.5vmin Helvetica;
+    margin-top: 0;
+    padding-right: 17.5vw;
+    text-align: right;
+    float: right;
+}
+
+#One{
+    position: absolute;
+    top: 30.5vh;
+    left: 39.5vw;
+    width: 30vmin;
+    height: 15vmin;
+}
+
+#Zero{
+    position: absolute;
+    top: 55vh;
+    left: 47.5vw;
+    width: 20vmin;
+    height: 20vmin;
+}
